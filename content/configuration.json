@@ -1,0 +1,15 @@
+{
+    "SITE_URL": "https://www.voidlink.dev",
+    "GH_USER_REPO" : "Flow-dev0",
+    "REPO_URL" : "https://github.com/Flow-dev0",
+    "SITE_TITLE" : "Voidlink",
+    "DEFAULT_DRAFT_STATUS" : "true",
+    "SITE_DESCRIPTION" : "Get the latest technology news, advice, and entertaining rants about Linux, Android, privacy, and security. Stay up to date and entertained with our tech articles.",
+    "DEFAULT_OG_IMAGE" : "https://www.voidlink.dev/default.png",
+    "MY_TWITTER_HANDLE" : "@VoidLink_",
+    "MY_MASTODON_HANDLE" : "https://fosstodon.org/@VoidLink_",
+    "MY_ODYSEE" : "https://odysee.com/@VoidLink",
+    "MY_ODYSEE_EMBED" : "https://odysee.com/$/embed/@VoidLink",
+    "AUTHOR" : "Shane.B",
+    "ROLE" : "Blogger & Tech Enthusiast"
+  }
